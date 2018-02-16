@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\obj\Debug\SchoolMascotRomyIIC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\obj\Debug\SchoolMascotRomyIIC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\obj\Debug\SchoolMascotRomyIIC.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\obj\Debug\SchoolMascotRomyIIC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\bin\Debug\SchoolMascotRomyIIC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\bin\Debug\SchoolMascotRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\bin\Debug\SchoolMascotRomyIIC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\obj\Debug\SchoolMascotRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\SchoolMascotRomyIIC\SchoolMascotRomyIIC\obj\Debug\SchoolMascotRomyIIC.pdb
